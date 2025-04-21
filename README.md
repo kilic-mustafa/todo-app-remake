@@ -33,7 +33,7 @@ A backend-focused ToDo list application built with Spring Boot, MySQL, and Mocki
 
 3. **Configure application properties:**
 
-- Navigate to src/main/resources/application.properties.
+- Navigate to src/main/resources/application.properties
 
 - Update the database connection settings:
 
@@ -49,8 +49,8 @@ A backend-focused ToDo list application built with Spring Boot, MySQL, and Mocki
   
 5. **Access the API:**
 
-- The application will be running at http://localhost:8080/.
-- Use tools like Postman or curl to interact with the API endpoints
+- The application will be running at http://localhost:8080/
+- Use tools like Postman or curl to interact with the API endpoints.
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
